@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AsyncTask_ProgressDialog_Synchronization.iml" filepath="$PROJECT_DIR$/AsyncTask_ProgressDialog_Synchronization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressDialog_AsyncTask/ProgressDialog_AsyncTask.iml" filepath="$PROJECT_DIR$/ProgressDialog_AsyncTask/ProgressDialog_AsyncTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Synchronize_AsyncTask_Thread_join/Synchronize_AsyncTask_Thread_join.iml" filepath="$PROJECT_DIR$/Synchronize_AsyncTask_Thread_join/Synchronize_AsyncTask_Thread_join.iml" />
+    </modules>
+  </component>
+</project>
